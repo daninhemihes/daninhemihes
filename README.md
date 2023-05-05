@@ -1,4 +1,4 @@
-## Hi, be very welcome! You can call me Dani, I'm passionate about technology and inovation. ❤️
+## Hi, be very welcome! I'm passionate about technology and inovation. ❤️
 
 
   I've knowledge in JavaScript, HTML5, CSS3 and C#<br>
